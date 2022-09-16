@@ -62,3 +62,7 @@
 
 - [**Ngrok**](https://ngrok.com/) ngrok is the programmable network edge that adds connectivity, security, and observability
 
+#### DATABASES
+
+- [**Intelligence X**](https://intelx.io/) Leaked Databases search
+- [**Breachdirectory**](https://breachdirectory.org/) Check if your information was exposed in a data breach
