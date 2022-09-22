@@ -7,6 +7,7 @@
 - [**SecList**](https://github.com/danielmiessler/SecLists) Lists used during security assessments
  
  #### BROWSERS
+- [**Archive**](https://archive.org/) Search the history of over 737 billion web pages on the Internet.
 - [**Shodan**](https://www.shodan.io/) Devices search engine
 - [**Fofa**](https://fofa.info/) Like Shodan but Chinese
 - [**Censys**](https://search.censys.io/) Devices search engine
@@ -68,7 +69,6 @@
 
 - [**Intelligence X**](https://intelx.io/) Leaked Databases search
 - [**Breachdirectory**](https://breachdirectory.org/) Check if your information was exposed in a data breach
-
 
 #### FOOTPRINTING
 
