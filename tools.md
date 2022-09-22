@@ -75,3 +75,5 @@
 - [**WhatWeb**](https://github.com/urbanadventurer/WhatWeb) Recognises web technologies including content management systems (CMS), blogging platforms, statistic/analytics packages, JavaScript libraries, web servers, and embedded devices.
 - [**Domain Dossier**](https://centralops.net/co/DomainDossier.aspx) Generates reports from public records about domain names and IP addresses to help solve problems, investigate cybercrime, or just better understand how things are set up.
 - [**DNS Dumpster**](https://dnsdumpster.com/) Domain research tool that can discover hosts related to a domain.
+- [**Nmap**](https://nmap.org/) Network scanner.
+- [**Hping**](http://www.hping.org/) TCP/IP packet assembler/analyzer.
