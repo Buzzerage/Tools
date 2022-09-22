@@ -32,6 +32,7 @@
 
 #### CYBERSECURITY CERTIFICATES
 - [**Certifications**](https://mega.nz/folder/cuYXhQxT#WABLdQtsLSf2O1WWEL8bjQ) Cybersecurity certifications documents
+- [**BuiltWith**](https://builtwith.com/) Find out what websites are Built With.
 
 #### IP
 - [**Ipdata**](https://ipdata.co/) IP locator and data
@@ -67,3 +68,8 @@
 
 - [**Intelligence X**](https://intelx.io/) Leaked Databases search
 - [**Breachdirectory**](https://breachdirectory.org/) Check if your information was exposed in a data breach
+
+
+#### FOOTPRINTING
+
+- [**WhatWeb**](https://github.com/urbanadventurer/WhatWeb) Recognises web technologies including content management systems (CMS), blogging platforms, statistic/analytics packages, JavaScript libraries, web servers, and embedded devices.
