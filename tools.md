@@ -70,10 +70,15 @@
 - [**Intelligence X**](https://intelx.io/) Leaked Databases search
 - [**Breachdirectory**](https://breachdirectory.org/) Check if your information was exposed in a data breach
 
-#### FOOTPRINTING
+#### SCANNERS
 
 - [**WhatWeb**](https://github.com/urbanadventurer/WhatWeb) Recognises web technologies including content management systems (CMS), blogging platforms, statistic/analytics packages, JavaScript libraries, web servers, and embedded devices.
 - [**Domain Dossier**](https://centralops.net/co/DomainDossier.aspx) Generates reports from public records about domain names and IP addresses to help solve problems, investigate cybercrime, or just better understand how things are set up.
 - [**DNS Dumpster**](https://dnsdumpster.com/) Domain research tool that can discover hosts related to a domain.
 - [**Nmap**](https://nmap.org/) Network scanner.
 - [**Hping**](http://www.hping.org/) TCP/IP packet assembler/analyzer.
+- [**OpenVas**](https://www.openvas.org/) Vulnerability scanner.
+
+#### VIRUS CREATOR
+- [**Sonic Bat**](http://anonganesh.blogspot.com/2014/03/sonic-bat-batch-file-virus-creator.html) Bat files virus creator.
+- [**JPS Virus Maker**](https://samcodeweb.wordpress.com/2017/07/19/first-blog-post/) virus maker.
