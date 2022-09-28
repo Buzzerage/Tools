@@ -26,7 +26,10 @@
 - [**FFUF**](https://github.com/ffuf/ffuf) A fast web fuzzer written in Go
 - [**GitTools**](https://github.com/internetwache/GitTools) Git research
 - [**OSRFramework**](https://github.com/i3visio/osrframework) References to a bunch of different applications related to username checking, DNS lookups, information leaks research, deep web search, regular expressions extraction and many others.
-
+- [**Traceroute**](https://linux.die.net/man/8/traceroute) Network diagnostic commands for displaying possible routes (paths) and measuring transit delays of packets.
+- [**Finger**](https://linuxhint.com/finger-command-tutorial/) User information lookup command which gives details of all the users logged in.
+- [**Nslookup**](https://www.nslookup.io/) Tool for querying the Domain Name System to obtain the mapping between domain name and IP address, or other DNS records.
+- 
 #### MAIL
 - [**TempMail**](https://temp-mail.org/en/) Temporal mail
 - [**Emkei's Mailer**](https://emkei.cz/) Impersonate mail
