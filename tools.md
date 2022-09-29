@@ -85,3 +85,6 @@
 #### VIRUS CREATOR
 - [**Sonic Bat**](http://anonganesh.blogspot.com/2014/03/sonic-bat-batch-file-virus-creator.html) Bat files virus creator.
 - [**JPS Virus Maker**](https://samcodeweb.wordpress.com/2017/07/19/first-blog-post/) virus maker.
+
+#### SOCIAL ENGINEERING
+- [**Social Engineer Toolkit**](https://github.com/trustedsec/social-engineer-toolkit) Penetration testing framework designed for social engineering.
