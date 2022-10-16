@@ -90,4 +90,6 @@
 - [**Social Engineer Toolkit**](https://github.com/trustedsec/social-engineer-toolkit) Penetration testing framework designed for social engineering.
 
 #### PRIVACY
-- [**TrackMeNot**](https://github.com/vtoubiana/TrackMeNot) browser extension that helps protect web searchers from surveillance and data-profiling by search engines.
+- [**TrackMeNot**](https://github.com/vtoubiana/TrackMeNot) Browser extension that helps protect web searchers from surveillance and data-profiling by search engines.
+- [**AdNauseam**](https://adnauseam.io/) Automates ad clicks universally and blindly on behalf of its users.
+- [**DuckDuckGo**](https://duckduckgo.com/) Is an internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results.
