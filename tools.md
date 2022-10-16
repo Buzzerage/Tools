@@ -88,3 +88,6 @@
 
 #### SOCIAL ENGINEERING
 - [**Social Engineer Toolkit**](https://github.com/trustedsec/social-engineer-toolkit) Penetration testing framework designed for social engineering.
+
+#### PRIVACY
+- [**TrackMeNot**](https://github.com/vtoubiana/TrackMeNot) browser extension that helps protect web searchers from surveillance and data-profiling by search engines.
