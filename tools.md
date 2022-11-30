@@ -29,7 +29,8 @@
 - [**Traceroute**](https://linux.die.net/man/8/traceroute) Network diagnostic commands for displaying possible routes (paths) and measuring transit delays of packets.
 - [**Finger**](https://linuxhint.com/finger-command-tutorial/) User information lookup command which gives details of all the users logged in.
 - [**Nslookup**](https://www.nslookup.io/) Tool for querying the Domain Name System to obtain the mapping between domain name and IP address, or other DNS records.
-- 
+- [**Masscan**](https://github.com/robertdavidgraham/masscan) This is an Internet-scale port scanner. It can scan the entire Internet in under 5 minutes, transmitting 10 million packets per second, from a single machine.
+
 #### MAIL
 - [**TempMail**](https://temp-mail.org/en/) Temporal mail
 - [**Emkei's Mailer**](https://emkei.cz/) Impersonate mail
