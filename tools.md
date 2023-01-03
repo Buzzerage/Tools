@@ -94,3 +94,8 @@
 - [**TrackMeNot**](https://github.com/vtoubiana/TrackMeNot) Browser extension that helps protect web searchers from surveillance and data-profiling by search engines.
 - [**AdNauseam**](https://adnauseam.io/) Automates ad clicks universally and blindly on behalf of its users.
 - [**DuckDuckGo**](https://duckduckgo.com/) Is an internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results.
+
+#### ANALYSIS
+- [**Triage**]([https://adnauseam.io/](https://tria.ge/)) Malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. 
+- [**Any Run**](https://app.any.run/) Malware hunting with live access to the hearth of an incident. Analyze a network, file, module, and the registry activity.
+
