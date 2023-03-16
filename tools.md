@@ -63,7 +63,9 @@
 #### PRIVILEGE ESCALATION
 
 - [**LinPEAS**](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS) Linux Privilege Escalation
-- 
+
+### ACCESS GAIN
+- [Reverse Shell](https://www.revshells.com/) Reverse Shell Generator
 
 #### SERVERS
 
@@ -96,10 +98,11 @@
 - [**DuckDuckGo**](https://duckduckgo.com/) Is an internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results.
 
 #### ANALYSIS
-- [**Triage**]([https://adnauseam.io/](https://tria.ge/)) Malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. 
+- [**Triage**](https://tria.ge/) Malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. 
 - [**Any Run**](https://app.any.run/) Malware hunting with live access to the hearth of an incident. Analyze a network, file, module, and the registry activity.
 
 #### OS
 - [**GrapheneOS**](https://grapheneos.org/) The private and secure mobile operating system with Android app compatibility.
 
-https://www.revshells.com/
+### PHISHING
+- [**Evilginx**](https://github.com/kgretzky/evilginx2) Man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
