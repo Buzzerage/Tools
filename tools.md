@@ -106,3 +106,6 @@
 
 ### PHISHING
 - [**Evilginx**](https://github.com/kgretzky/evilginx2) Man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
+
+### HONEYPOTS
+- [**T-POT**](https://github.com/telekom-security/tpotce) All in one, optionally distributed, multiarch (amd64, arm64) honeypot plattform, supporting 20+ honeypots and countless visualization options using the Elastic Stack, animated live attack maps and lots of security tools to further improve the deception experience. 
