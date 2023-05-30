@@ -75,6 +75,7 @@
 
 - [**Intelligence X**](https://intelx.io/) Leaked Databases search
 - [**Breachdirectory**](https://breachdirectory.org/) Check if your information was exposed in a data breach
+- [**Leaked files repository**](https://github.com/hacxx-underground/Files) Leaked files repository
 
 #### SCANNERS
 
