@@ -76,6 +76,9 @@
 - [**Intelligence X**](https://intelx.io/) Leaked Databases search
 - [**Breachdirectory**](https://breachdirectory.org/) Check if your information was exposed in a data breach
 - [**Leaked files repository**](https://github.com/hacxx-underground/Files) Leaked files repository
+- [**PwnDB**](http://pwndb2am4tzkvold.onion) Leaked databases.
+- [**Breachdirectory**](https://breachdirectory.org/) Leaked databases.
+- [**FacebookLeak**](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/) Leaked databases.
 
 #### SCANNERS
 
@@ -109,4 +112,14 @@
 - [**Evilginx**](https://github.com/kgretzky/evilginx2) Man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
 
 ### HONEYPOTS
-- [**T-POT**](https://github.com/telekom-security/tpotce) All in one, optionally distributed, multiarch (amd64, arm64) honeypot plattform, supporting 20+ honeypots and countless visualization options using the Elastic Stack, animated live attack maps and lots of security tools to further improve the deception experience. 
+- [**T-POT**](https://github.com/telekom-security/tpotce) All in one, optionally distributed, multiarch (amd64, arm64) honeypot plattform, supporting 20+ honeypots and countless visualization options using the Elastic Stack, animated live attack maps and lots of security tools to further improve the deception experience.
+
+### OSINT
+- [**Osintframework**](https://osintframework.com/)
+- [**Holehe**](https://github.com/megadose/holehe) Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others.
+- [**PyMeta**](https://github.com/m8sec/pymeta#pymeta) PyMeta is a Python3 rewrite of the tool PowerMeta, created by dafthack in PowerShell. It uses specially crafted search queries to identify and download the following file types (pdf, xls, xlsx, csv, doc, docx, ppt, pptx) from a given domain using Google and Bing scraping.
+- [**Maigre**](https://github.com/krishpranav/maigret) A simple username osint tool built in go.
+- [**Psbdmp**](https://psbdmp.ws/) Paste page.
+- [**Pastebin**](https://pastebin.com/) Paste page.
+- [**Redhuntlabs**](https://redhuntlabs.com/online-ide-search/) Paste page.
+
